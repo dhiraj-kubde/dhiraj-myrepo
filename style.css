@@ -1,5 +1,5 @@
 body{
-    background:linear-gradient(to right,#601397,purple);
+    background:linear-gradient(to right,#601397,#a044ff);
     font-family: Arial, Helvetica, sans-serif;
     color:white;
     margin:0;
@@ -8,4 +8,9 @@ body{
     justify-content:center;
     align-items: center;
     height:100vh;
+}
+
+h1{
+    font-size: 2em;
+    text-align: center;
 }
